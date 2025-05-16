@@ -1,5 +1,3 @@
-os
-sys
 django.core.wsgi
 django.urls
 django.conf 
