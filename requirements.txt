@@ -1,0 +1,15 @@
+os
+sys
+django.core.wsgi
+django.urls
+django.conf 
+django.conf.urls.static
+pathlib
+django.core.asgi
+django.contrib
+django.apps
+django.db
+django.test
+django.shortcuts 
+requests
+datetime
